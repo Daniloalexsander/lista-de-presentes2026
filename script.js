@@ -1,8 +1,8 @@
 // FIREBASE
 const firebaseConfig = {
-  apiKey: "AIzaSy...",
-  authDomain: "lista-de-presentes-4307d.firebaseapp.com",
-  databaseURL: "https://lista-de-presentes-4307d-default-rtdb.firebaseio.com/",
+  apiKey: "AIzaSyCiGaS9kDYsHqPSkMBPa4rJtvIv41FV4HU",
+  authDomain: "lista-de-presentes2026.firebaseapp.com",
+  databaseURL: "https://lista-de-presentes2026-default-rtdb.firebaseio.com/",
 };
 
 firebase.initializeApp(firebaseConfig);
